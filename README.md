@@ -7,4 +7,3 @@ Compile : mvn clean compile
 Packege : mvn clean package
 
 Run     : java -jar target/server-1.0-SNAPSHOT-example.jar
-
