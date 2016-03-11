@@ -8,7 +8,7 @@ public class MyFirstVerticle extends AbstractVerticle {
   /**
    * this is the server class for pet feeder 
    * Need - extend
-   * author : jayamine
+   * author : jayamine alupotha
    */
    
    static String foodAvailable="ok";
